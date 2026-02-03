@@ -1,0 +1,3 @@
+Ceci est mon premier fichier créé sur GitHub.
+Date : février 2026
+Exercice Git de base
